@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/arr-sorted-has",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Binary search  -based indexOf for sorted arrays.",
    "main": "dist/arr-sorted-has.umd.js",
    "module": "dist/arr-sorted-has.esm.js",
@@ -97,9 +97,13 @@
       "keys",
       "dot-notation",
       "support",
-      "callback",
-      "type",
-      "definition",
+      "comparator",
+      "compare",
+      "negative",
+      "number",
+      ">",
+      "positive",
+      "<",
       "getter",
       "arrsortedhas"
    ]
